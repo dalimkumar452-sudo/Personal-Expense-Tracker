@@ -1,0 +1,6 @@
+﻿,id,date,category,amount,currency,method,note
+0,1,2026-05-06T00:00:00.000,Shopping,3000,INR,Cash,
+1,2,2026-05-06T00:00:00.000,Education,30000,INR,Paytm,
+2,3,2026-05-06T00:00:00.000,Transport,2000,INR,Paytm,
+3,4,2026-05-06T00:00:00.000,Food & Dining,5000,INR,Cash,
+4,5,2026-05-06T00:00:00.000,Others,1600,INR,Card,
